@@ -1,0 +1,3 @@
+# django
+creating django project....
+Creating Mysite using Django
